@@ -1,8 +1,8 @@
-Javascript, HTML and CSS, Python.
+
 
 Features & Details: 
-◦ Technology Used: HTML, CSS, Javascript, Firebase Database and Authentication.
+◦ Technology Used: HTML, CSS, Javascript, Firebase Database .
 
-◦ Portal which contains several features such as registration, login, timer, score calculations.
+◦ Portal which contains several features such as  login, signup , expense calculations.
 
-◦ It saves the responses of all participated students and anyone can explore the data of the portal in just single click and keeping record of all students.
+◦ It saves the data of all expenses and we can delete it accordingly.
